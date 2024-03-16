@@ -1,0 +1,14 @@
+/home/mateus/Área de Trabalho/Laboratorio de Programação/TDE/bin/Debug/net8.0/TDE
+/home/mateus/Área de Trabalho/Laboratorio de Programação/TDE/bin/Debug/net8.0/TDE.deps.json
+/home/mateus/Área de Trabalho/Laboratorio de Programação/TDE/bin/Debug/net8.0/TDE.runtimeconfig.json
+/home/mateus/Área de Trabalho/Laboratorio de Programação/TDE/bin/Debug/net8.0/TDE.dll
+/home/mateus/Área de Trabalho/Laboratorio de Programação/TDE/bin/Debug/net8.0/TDE.pdb
+/home/mateus/Área de Trabalho/Laboratorio de Programação/TDE/obj/Debug/net8.0/TDE.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/Área de Trabalho/Laboratorio de Programação/TDE/obj/Debug/net8.0/TDE.AssemblyInfoInputs.cache
+/home/mateus/Área de Trabalho/Laboratorio de Programação/TDE/obj/Debug/net8.0/TDE.AssemblyInfo.cs
+/home/mateus/Área de Trabalho/Laboratorio de Programação/TDE/obj/Debug/net8.0/TDE.csproj.CoreCompileInputs.cache
+/home/mateus/Área de Trabalho/Laboratorio de Programação/TDE/obj/Debug/net8.0/TDE.dll
+/home/mateus/Área de Trabalho/Laboratorio de Programação/TDE/obj/Debug/net8.0/refint/TDE.dll
+/home/mateus/Área de Trabalho/Laboratorio de Programação/TDE/obj/Debug/net8.0/TDE.pdb
+/home/mateus/Área de Trabalho/Laboratorio de Programação/TDE/obj/Debug/net8.0/TDE.genruntimeconfig.cache
+/home/mateus/Área de Trabalho/Laboratorio de Programação/TDE/obj/Debug/net8.0/ref/TDE.dll
